@@ -12,10 +12,10 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="MDViewController" customModule="MVP" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="QJp-EK-vUo"/>
-                        <viewControllerLayoutGuide type="bottom" id="LIG-A1-G42"/>
+                        <viewControllerLayoutGuide type="top" id="mdS-Vw-TKA"/>
+                        <viewControllerLayoutGuide type="bottom" id="giy-6f-GYK"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
